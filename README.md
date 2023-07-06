@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivansh Gaur</h1>
 <h3 align="center">frontend developer || DSA || Full Stack enthusiast</h3>
 
-- 🌱 I’m currently learning **Django,DSA**
+- 🌱 I’m currently learning **MERN,DSA**
 
 - 📫 How to reach me **shivanshgaur28@gmail.com**
 
