@@ -47,3 +47,7 @@
 </div>
 
 ###
+
+![snake gif](https://github.com/Shivansh-Gaur2/Shivansh-Gaur2/blob/output/github-contribution-grid-snake.gif)
+
+###
