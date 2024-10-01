@@ -64,5 +64,4 @@
 ###
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh-gaur2&" alt="shivansh-gaur2" /></p>
 
-###
-[![An image of @shivanshgaur2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivanshgaur2)](https://holopin.io/@shivanshgaur2)
+###[![An image of @shivanshgaur2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivanshgaur2)](https://holopin.io/@shivanshgaur2)
