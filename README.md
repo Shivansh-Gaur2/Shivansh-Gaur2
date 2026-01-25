@@ -29,29 +29,26 @@ My work philosophy:
 - Treat architecture as a first-class citizen, not an afterthought
 
 ---
-
 ## 🧱 Core Competencies
 
-**Languages**
-C++ • JavaScript (ES6+) • TypeScript • C# • Python • SQL
+### 🔹 Languages
+`C++` `JavaScript (ES6+)` `TypeScript` `C#` `Python` `SQL`
 
+### 🔹 Backend & Distributed Systems
+`Node.js` `Express` `.NET Core` `Microservices`  
+`REST APIs` `Async Processing` `WebSockets` `Redis`  
+`JWT` `OAuth`
 
-**Backend & Systems**
-Node.js • Express • .NET Core • REST APIs • Microservices
-Redis • WebSockets • JWT / OAuth • Async Processing
+### 🔹 Data & Storage
+`MongoDB` `PostgreSQL` `MySQL`  
+`Schema Design` `Indexing` `Write/Read Optimization`
 
+### 🔹 Cloud & Tooling
+`AWS` `Docker` `CI/CD` `Git` `Postman`
 
-**Data & Storage**
-MongoDB • PostgreSQL • MySQL • Schema Design • Indexing
-
-
-**Cloud & Tooling**
-AWS • Docker • CI/CD • Git • Postman
-
-
-**Foundations**
-DSA • Operating Systems • DBMS • Distributed Systems • OOP • Computer Networks
-
+### 🔹 Computer Science Foundations
+`DSA` `Operating Systems` `DBMS`  
+`Distributed Systems` `OOP` `Computer Networks`
 
 ---
 
