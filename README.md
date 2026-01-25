@@ -1,10 +1,5 @@
 <h1 align="center">Shivansh Gaur</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=6A5ACD&center=true&vCenter=true&width=750&lines=Designing+scalable+backend+systems;Building+distributed+data+pipelines;Optimizing+for+correctness+before+cleverness;Thinking+in+trade-offs+and+abstractions" />
-</p>
-
 <h3 align="center">Software Development Engineer • Backend, Systems & Distributed Architecture</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/shivansh-gaur/">
     <img src="https://img.shields.io/badge/LinkedIn-Shivansh%20Gaur-blue?style=flat-square&logo=linkedin">
@@ -15,6 +10,9 @@
   <a href="mailto:shivanshgaur28@gmail.com">
     <img src="https://img.shields.io/badge/Email-shivanshgaur28@gmail.com-red?style=flat-square&logo=gmail">
   </a>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=6A5ACD&center=true&vCenter=true&width=750&lines=Designing+scalable+backend+systems;Building+distributed+data+pipelines;Optimizing+for+correctness+before+cleverness;Thinking+in+trade-offs+and+abstractions" />
 </p>
 
 ---
