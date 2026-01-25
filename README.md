@@ -13,6 +13,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=6A5ACD&center=true&vCenter=true&width=750&lines=Designing+scalable+backend+systems;Building+distributed+data+pipelines;Optimizing+for+correctness+before+cleverness;Thinking+in+trade-offs+and+abstractions" />
+</p>
+
 ---
 
 ## 🧠 Engineering Profile
