@@ -1,0 +1,28 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Shivansh-Gaur2
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          mkdir -p profile-3d-contrib
+          cp github-contribution-grid-3d*.svg profile-3d-contrib/ 2>/dev/null || true
+          git add -A
+          git diff --cached --quiet || git commit -m "generate 3d contribution graph"
+          git push
