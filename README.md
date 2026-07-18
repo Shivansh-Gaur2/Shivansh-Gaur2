@@ -1,34 +1,57 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shivansh+Gaur+%F0%9F%91%8B;SDE-1+%40+Pathlock;Backend+%26+Distributed+Systems;Building+systems+that+scale+before+they+break." alt="Typing SVG" />
-
-[![profile views](https://komarev.com/ghpvc/?username=Shivansh-Gaur2&label=terminal+visits&color=00FF41&style=for-the-badge)](https://github.com/Shivansh-Gaur2)
-[![followers](https://img.shields.io/github/followers/Shivansh-Gaur2?label=followers&style=for-the-badge&color=00FF41&labelColor=000000)](https://github.com/Shivansh-Gaur2?tab=followers)
-[![stars](https://img.shields.io/github/stars/Shivansh-Gaur2?affiliations=OWNER&style=for-the-badge&color=00FF41&labelColor=000000)](https://github.com/Shivansh-Gaur2)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=220&section=header&text=SHIVANSH%20GAUR&fontSize=52&fontColor=00FF41&fontAlignY=38&animation=fadeIn&desc=SDE-1%20%40%20Pathlock%20%C2%B7%20Backend%20%26%20Distributed%20Systems&descAlignY=58&descSize=18&descAlign=50" width="100%"/>
 
 </div>
 
 <pre align="center">
-╭──────────────────────────────────────────────────────╮
-│  shivansh@pathlock:~$ cat about.md                    │
-╰──────────────────────────────────────────────────────╯
+   _____ __  _______    _____    _   _______ __  __
+  / ___// / / /  _/ |  / /   |  / | / / ___// / / /
+  \__ \/ /_/ // / | | / / /| | /  |/ /\__ \/ /_/ /
+ ___/ / __  // /  | |/ / ___ |/ /|  /___/ / __  /
+/____/_/ /_/___/  |___/_/  |_/_/ |_//____/_/ /_/
 </pre>
 
-```bash
-$ whoami
-> Shivansh Gaur — Software Development Engineer (SDE-1) @ Pathlock
+<div align="center">
 
-$ location --show
-> Chandigarh, India · Punjab Engineering College
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+booting+shivansh.exe...;%3E+loading+distributed_systems.dll;%3E+status%3A+FOCUSED+%F0%9F%8E%AF;%3E+ready+for+production." alt="Typing SVG" />
 
-$ status --current
-> Focusing 🎯
+[![profile views](https://komarev.com/ghpvc/?username=Shivansh-Gaur2&label=TERMINAL+VISITS&color=00FF41&style=for-the-badge)](https://github.com/Shivansh-Gaur2)
+[![followers](https://img.shields.io/github/followers/Shivansh-Gaur2?label=FOLLOWERS&style=for-the-badge&color=00FF41&labelColor=000000)](https://github.com/Shivansh-Gaur2?tab=followers)
+[![stars](https://img.shields.io/github/stars/Shivansh-Gaur2?affiliations=OWNER&style=for-the-badge&color=00FF41&labelColor=000000&label=STARS)](https://github.com/Shivansh-Gaur2)
 
-$ links --all
-> portfolio  : https://iamshivansh.vercel.app
-> linkedin   : linkedin.com/in/shivansh-gaur
-> leetcode   : leetcode.com/shivanshgaur28
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,100:0D1117&height=3&width=100%"/>
+
+<br>
+
+<table align="center">
+<tr>
+<td>
+
+```ansi
+┌─[shivansh@pathlock]─[~]
+└──╼ $ neofetch --custom
+
+           ▄▄▄▄▄▄▄            shivansh@pathlock
+         ▄█████████▄          ─────────────────
+        ███████████████       OS: Backend Engineer v2.1
+       █████████████████      Host: Pathlock (SDE-1)
+       █████▀▀▀▀▀█████████    Kernel: Distributed-Systems-6.0
+       ████   🎯  █████████    Uptime: Jun 2025 - present
+       █████▄▄▄▄▄██████████   Shell: /bin/problem-solver
+        ███████████████       Resolution: Top 5% LeetCode
+         ▀█████████▀          DE: React + Node + .NET
+           ▀▀▀▀▀▀▀             Location: Chandigarh, IN
+                               Education: PEC Chandigarh
+                               Solved: 1000+ problems
+
 ```
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -41,6 +64,20 @@ $ engineering --principles
 [3] Optimize for correctness first, then performance.
 [4] Design systems other engineers can safely evolve.
 ```
+
+<br>
+
+<div align="center">
+
+## `> ./contribution_snake.sh --run`
+
+<!--START_SECTION:waving-snake-->
+<img src="https://raw.githubusercontent.com/Shivansh-Gaur2/Shivansh-Gaur2/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<!--END_SECTION:waving-snake-->
+
+*(Live animated snake that eats your contribution graph — see setup note below ⬇️)*
+
+</div>
 
 <br>
 
@@ -87,6 +124,16 @@ $ engineering --principles
 
 </div>
 
+<div align="center">
+
+### `> render --contrib-graph -d 3`
+
+<img src="https://raw.githubusercontent.com/Shivansh-Gaur2/Shivansh-Gaur2/output/github-contribution-grid-3d-graph.svg" width="100%"/>
+
+*(3D animated contribution graph — see setup note below ⬇️)*
+
+</div>
+
 <br>
 
 ## `> tail -f experience.log`
@@ -110,27 +157,6 @@ $ engineering --principles
 <br>
 
 ## `> ls ./featured-projects`
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔹 Real-Time Collaborative Workspace Engine
-Low-latency collaboration with concurrent state sync, AI-assisted contextual support, and sub-second message delivery.
-
-`React · Node.js · WebSockets · Redis · MongoDB`
-
-</td>
-<td width="50%">
-
-### 🔹 Scalable Event Management Platform
-Role-based authorization (RBAC), 30% faster queries via indexing, dynamic filtering at scale.
-
-`React · Express · MongoDB · JWT`
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
@@ -167,13 +193,9 @@ Role-based authorization (RBAC), 30% faster queries via indexing, dynamic filter
 
 </div>
 
-<br>
-
-<div align="center">
-
-<pre>
+<pre align="center">
 $ echo "Great engineering is consistent trade-off thinking under constraints."
 $ exit
 </pre>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=120&section=footer" width="100%"/>
