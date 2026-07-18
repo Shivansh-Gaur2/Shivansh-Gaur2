@@ -1,166 +1,179 @@
-<h1 align="center">Hey, I'm Shivansh Gaur 👋</h1>
-<h3 align="center">Software Development Engineer • Backend, Distributed Systems & Scalable Architecture</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Shivansh-Gaur2&label=Profile%20Views&color=6A5ACD&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Shivansh-Gaur2&label=Profile%20Views&color=6A5ACD&style=for-the-badge" alt="profile views" />
-  </a>
-  <a href="https://github.com/Shivansh-Gaur2?tab=followers">
-    <img src="https://img.shields.io/github/followers/Shivansh-Gaur2?label=Followers&style=for-the-badge&color=1f6feb" alt="github followers" />
-  </a>
-  <a href="https://github.com/Shivansh-Gaur2">
-    <img src="https://img.shields.io/github/stars/Shivansh-Gaur2?affiliations=OWNER&style=for-the-badge&color=f39c12" alt="github stars" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shivansh+Gaur+%F0%9F%91%8B;SDE-1+%40+Pathlock;Backend+%26+Distributed+Systems;Building+systems+that+scale+before+they+break." alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shivansh-gaur/">
-    <img src="https://img.shields.io/badge/LinkedIn-Shivansh%20Gaur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Shivansh-Gaur2">
-    <img src="https://img.shields.io/badge/GitHub-Shivansh--Gaur2-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:shivanshgaur28@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![profile views](https://komarev.com/ghpvc/?username=Shivansh-Gaur2&label=terminal+visits&color=00FF41&style=for-the-badge)](https://github.com/Shivansh-Gaur2)
+[![followers](https://img.shields.io/github/followers/Shivansh-Gaur2?label=followers&style=for-the-badge&color=00FF41&labelColor=000000)](https://github.com/Shivansh-Gaur2?tab=followers)
+[![stars](https://img.shields.io/github/stars/Shivansh-Gaur2?affiliations=OWNER&style=for-the-badge&color=00FF41&labelColor=000000)](https://github.com/Shivansh-Gaur2)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&width=860&lines=I+design+high-throughput+backend+systems.;I+build+distributed+pipelines+that+survive+production+load.;I+optimize+for+clarity,+correctness,+and+scale.;Always+thinking+in+trade-offs,+latency,+and+resilience." />
-</p>
+</div>
 
----
+<pre align="center">
+╭──────────────────────────────────────────────────────╮
+│  shivansh@pathlock:~$ cat about.md                    │
+╰──────────────────────────────────────────────────────╯
+</pre>
 
-## ⚡ Quick Highlights
+```bash
+$ whoami
+> Shivansh Gaur — Software Development Engineer (SDE-1) @ Pathlock
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-Engineering-0b7285?style=flat-square" />
-  <img src="https://img.shields.io/badge/Distributed-Systems-5f3dc4?style=flat-square" />
-  <img src="https://img.shields.io/badge/High_Throughput-Pipelines-2b8a3e?style=flat-square" />
-  <img src="https://img.shields.io/badge/System-Design-f08c00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Problem_Solving-1000%2B_DSA-862e9c?style=flat-square" />
-</p>
+$ location --show
+> Chandigarh, India · Punjab Engineering College
 
-- 🏗️ Backend-focused SDE building systems that scale in real production environments.
-- 🔄 Strong experience in distributed workflows, asynchronous processing, and transformation engines.
-- 📈 Passionate about maintainable, extensible architecture over short-term hacks.
-- 🧠 Competitive problem solver with 1000+ algorithmic problems solved.
+$ status --current
+> Focusing 🎯
 
----
+$ links --all
+> portfolio  : https://iamshivansh.vercel.app
+> linkedin   : linkedin.com/in/shivansh-gaur
+> leetcode   : leetcode.com/shivanshgaur28
+```
 
-## 📊 GitHub Snapshot
+<br>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shivansh-Gaur2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-Gaur2&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## `> ps -ef | grep philosophy`
 
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivansh-Gaur2&theme=tokyonight&hide_border=true" />
-</p>
+```bash
+$ engineering --principles
+[1] Build for scale BEFORE scale becomes an incident.
+[2] Prefer clean abstractions over accidental complexity.
+[3] Optimize for correctness first, then performance.
+[4] Design systems other engineers can safely evolve.
+```
 
----
+<br>
 
-## 🧠 Engineering Profile
+## `> tech_stack --verbose`
 
-I’m a Software Development Engineer focused on **backend systems, distributed architecture, and data-intensive workflows**.
+<div align="center">
 
-I enjoy owning complex problems end-to-end: from API contracts and schema design to runtime optimization and production hardening.
+**Languages**
+![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![C#](https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=csharp&logoColor=239120)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
-### My engineering philosophy
+**Backend & Distributed Systems**
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![.NET](https://img.shields.io/badge/-.NET_Core-000000?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![Redis](https://img.shields.io/badge/-Redis-000000?style=for-the-badge&logo=redis&logoColor=DC382D)
+![WebSockets](https://img.shields.io/badge/-WebSockets-000000?style=for-the-badge&logo=socket.io&logoColor=FFFFFF)
 
-- Build for scale **before** scale becomes an incident.
-- Prefer clean abstractions over accidental complexity.
-- Optimize for correctness first, then performance.
-- Design systems that other engineers can safely evolve.
+**Databases & Cloud**
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/-GCP-000000?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
 
----
+</div>
 
-## 🛠️ Tech Stack
+<br>
 
-### Languages
-`C++` `JavaScript (ES6+)` `TypeScript` `C#` `Python` `SQL`
+## `> git log --stats`
 
-### Backend & Distributed Systems
-`Node.js` `Express` `.NET Core` `Microservices` `REST APIs` `WebSockets` `Async Processing` `Redis` `JWT` `OAuth`
+<div align="center">
 
-### Databases & Data Modeling
-`MongoDB` `PostgreSQL` `MySQL` `Schema Design` `Indexing` `Query Optimization`
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shivansh-Gaur2&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" />
 
-### Cloud & Dev Tools
-`AWS` `Docker` `CI/CD` `Git` `Postman`
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivansh-Gaur2&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 
-### Core CS Strengths
-`Data Structures & Algorithms` `Operating Systems` `DBMS` `Distributed Systems` `OOP` `Computer Networks`
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-Gaur2&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
 
----
+</div>
 
-## 💼 Experience Snapshot
+<br>
 
-### **Software Development Engineer – I** @ **Pathlock**  
-**Jun 2025 – Present**
+## `> tail -f experience.log`
 
-- Built a **high-throughput Universal Data Transformation Engine** (JSON/XML/CSV), reducing onboarding time by **40%**.
-- Designed a **plugin-based architecture** using SOLID principles for safer and faster extensibility.
-- Developed reusable transformation primitives (`aggregate`, `iterate`, `fallback`) cutting custom effort by **60%**.
-- Improved ERP automation pipelines (SAP/Oracle) with async processing, delivering **2× throughput**.
-- Resolved race conditions and memory leaks, improving system uptime by **35%**.
+```bash
+[Jun 2025 – Present]  SDE-1 @ Pathlock
+> Built a high-throughput Universal Data Transformation Engine
+  (JSON/XML/CSV) — cut onboarding time by 40%
+> Designed plugin-based architecture using SOLID principles
+> Shipped reusable transformation primitives (aggregate, iterate,
+  fallback) — cut custom effort by 60%
+> Improved SAP/Oracle ERP pipelines with async processing → 2x throughput
+> Fixed race conditions & memory leaks → uptime up 35%
 
-### **Frontend Developer Intern** @ **Advantage Club**  
-**Jan 2024 – Jul 2024**
+[Jan 2024 – Jul 2024]  Frontend Developer Intern @ Advantage Club
+> Built atomic budget-transfer workflows with Redux (-30% overhead)
+> Added client-side payload encryption with CryptoJS
+> Built gamified leaderboards → engagement up 40%
+```
 
-- Built atomic budget transfer workflows with Redux, reducing overhead by **30%**.
-- Added secure client-side payload encryption with CryptoJS.
-- Developed gamified leaderboards that increased user engagement by **40%**.
-- Optimized rendering flow using Tailwind CSS for better UX performance.
+<br>
 
----
+## `> ls ./featured-projects`
 
-## 🚀 Featured Projects
+<table>
+<tr>
+<td width="50%">
 
 ### 🔹 Real-Time Collaborative Workspace Engine
-**React • Node.js • WebSockets • Redis • MongoDB**
+Low-latency collaboration with concurrent state sync, AI-assisted contextual support, and sub-second message delivery.
 
-- Engineered low-latency collaboration with concurrent state synchronization.
-- Added AI-assisted contextual support using LLM APIs.
-- Tuned MongoDB for write-heavy traffic to achieve sub-second message delivery.
-- Implemented secure authentication/session handling with JWT + bcrypt.
+`React · Node.js · WebSockets · Redis · MongoDB`
+
+</td>
+<td width="50%">
 
 ### 🔹 Scalable Event Management Platform
-**React • Express • MongoDB • JWT**
+Role-based authorization (RBAC), 30% faster queries via indexing, dynamic filtering at scale.
 
-- Built role-based authorization architecture (RBAC).
-- Improved query speed by **30%** using indexing and query tuning.
-- Delivered dynamic filtering/search UX with stable performance at scale.
+`React · Express · MongoDB · JWT`
 
----
+</td>
+</tr>
+</table>
 
-## 🏆 Problem Solving & Competitive Coding
+<div align="center">
 
-- ⭐ **LeetCode Knight** (Top 5% globally)
-- ✅ Solved **1000+** algorithmic problems
-- 🌍 Google Kickstart Global Rank: **8179**
-- 💡 Strength areas: Graphs, Dynamic Programming, Systems-oriented decomposition
+[![Events-Application](https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Gaur2&repo=Events-Application&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9)](https://github.com/Shivansh-Gaur2/Events-Application)
+[![FolioForge.ai](https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Gaur2&repo=FolioForge.ai&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9)](https://github.com/Shivansh-Gaur2/FolioForge.ai)
+[![TeamTalk-AI](https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Gaur2&repo=TeamTalk-AI&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9)](https://github.com/Shivansh-Gaur2/TeamTalk-AI)
+[![GenericMessagingQueue](https://github-readme-stats.vercel.app/api/pin/?username=Shivansh-Gaur2&repo=GenericMessagingQueue&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9)](https://github.com/Shivansh-Gaur2/GenericMessagingQueue)
 
----
+</div>
 
-## 🎯 Current Focus
+<br>
 
-- Distributed backend architecture
-- High-throughput data pipelines
-- Cloud-native reliability patterns
-- Building extensible platforms and internal developer tooling
+## `> cat competitive_programming.json`
 
----
+```json
+{
+  "leetcode_rank": "Knight (Top 5% globally)",
+  "problems_solved": "1000+",
+  "google_kickstart_global_rank": 8179,
+  "strength_areas": ["Graphs", "Dynamic Programming", "System Decomposition"]
+}
+```
 
-## 🤝 Let’s Connect
+<br>
 
-I love discussing backend architecture, distributed systems, performance engineering, and product-minded system design.
+## `> curl -X CONNECT`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shivansh-gaur/">LinkedIn</a> •
-  <a href="mailto:shivanshgaur28@gmail.com">Email</a> •
-  <a href="https://github.com/Shivansh-Gaur2">GitHub</a>
-</p>
+<div align="center">
 
-<p align="center"><i>"Great engineering is consistent trade-off thinking under constraints."</i></p>
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://iamshivansh.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/shivansh-gaur/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-00FF41?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shivanshgaur28/)
+[![Email](https://img.shields.io/badge/-Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:shivanshgaur28@gmail.com)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<pre>
+$ echo "Great engineering is consistent trade-off thinking under constraints."
+$ exit
+</pre>
+
+</div>
