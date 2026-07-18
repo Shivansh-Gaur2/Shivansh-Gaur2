@@ -1,0 +1,57 @@
+<svg width="820" height="420" viewBox="0 0 820 420" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: 'Courier New', monospace; fill: #c9d1d9; font-size: 15px; }
+    .track { fill: #161b22; }
+    .pct { fill: #7ee787; font-size: 13px; }
+    .bar { fill: #00ff41; }
+    .b1 { animation: g1 1.6s ease-out forwards; }
+    .b2 { animation: g2 1.6s ease-out forwards; animation-delay: .12s; }
+    .b3 { animation: g3 1.6s ease-out forwards; animation-delay: .24s; }
+    .b4 { animation: g4 1.6s ease-out forwards; animation-delay: .36s; }
+    .b5 { animation: g5 1.6s ease-out forwards; animation-delay: .48s; }
+    .b6 { animation: g6 1.6s ease-out forwards; animation-delay: .60s; }
+    @keyframes g1 { from{width:0} to{width:466px} }
+    @keyframes g2 { from{width:0} to{width:432px} }
+    @keyframes g3 { from{width:0} to{width:398px} }
+    @keyframes g4 { from{width:0} to{width:466px} }
+    @keyframes g5 { from{width:0} to{width:365px} }
+    @keyframes g6 { from{width:0} to{width:432px} }
+  </style>
+
+  <rect width="820" height="420" fill="#0d1117"/>
+  <rect x="10" y="10" width="800" height="400" fill="none" stroke="#00ff41" stroke-opacity="0.3" stroke-width="1.5"/>
+
+  <text x="30" y="45" font-size="16" fill="#00ff41">$ cat proficiency.log</text>
+
+  <text x="30" y="90">Backend &amp; APIs</text>
+  <rect class="track" x="260" y="76" width="490" height="18" rx="3"/>
+  <rect class="bar b1" x="260" y="76" height="18" rx="3"/>
+  <text class="pct" x="800" y="90" text-anchor="end">95%</text>
+
+  <text x="30" y="140">Distributed Systems</text>
+  <rect class="track" x="260" y="126" width="490" height="18" rx="3"/>
+  <rect class="bar b2" x="260" y="126" height="18" rx="3"/>
+  <text class="pct" x="800" y="140" text-anchor="end">88%</text>
+
+  <text x="30" y="190">React / Frontend</text>
+  <rect class="track" x="260" y="176" width="490" height="18" rx="3"/>
+  <rect class="bar b3" x="260" y="176" height="18" rx="3"/>
+  <text class="pct" x="800" y="190" text-anchor="end">81%</text>
+
+  <text x="30" y="240">Data Structures &amp; Algo</text>
+  <rect class="track" x="260" y="226" width="490" height="18" rx="3"/>
+  <rect class="bar b4" x="260" y="226" height="18" rx="3"/>
+  <text class="pct" x="800" y="240" text-anchor="end">95%</text>
+
+  <text x="30" y="290">Cloud (AWS/GCP)</text>
+  <rect class="track" x="260" y="276" width="490" height="18" rx="3"/>
+  <rect class="bar b5" x="260" y="276" height="18" rx="3"/>
+  <text class="pct" x="800" y="290" text-anchor="end">74%</text>
+
+  <text x="30" y="340">System Design</text>
+  <rect class="track" x="260" y="326" width="490" height="18" rx="3"/>
+  <rect class="bar b6" x="260" y="326" height="18" rx="3"/>
+  <text class="pct" x="800" y="340" text-anchor="end">88%</text>
+
+  <text x="30" y="385" font-size="13" fill="#8b949e">self-assessed &#183; updated manually, not a live feed</text>
+</svg>

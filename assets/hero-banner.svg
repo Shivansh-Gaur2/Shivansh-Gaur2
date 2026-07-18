@@ -1,0 +1,61 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#060a0e"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00ff41" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00ff41" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#00ff41" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="scan" width="3" height="3" patternUnits="userSpaceOnUse">
+      <rect width="3" height="1.4" fill="#00ff41"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .glowtext { animation: flicker 3.2s infinite; }
+    @keyframes flicker {
+      0%   { opacity: 1; }
+      42%  { opacity: 1; }
+      43%  { opacity: 0.65; }
+      44%  { opacity: 1; }
+      70%  { opacity: 1; }
+      71%  { opacity: 0.8; }
+      72%  { opacity: 1; }
+      100% { opacity: 1; }
+    }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 0%,50%{opacity:1} 50.01%,100%{opacity:0} }
+    .sweepbar { animation: sweep 5s linear infinite; }
+    @keyframes sweep {
+      0%   { transform: translateX(-260px); }
+      100% { transform: translateX(1400px); }
+    }
+  </style>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#scan)" opacity="0.06"/>
+
+  <rect x="18" y="18" width="1164" height="264" fill="none" stroke="#00ff41" stroke-opacity="0.45" stroke-width="1.5"/>
+  <path d="M18 48 V18 H48" fill="none" stroke="#00ff41" stroke-width="2.5"/>
+  <path d="M1182 48 V18 H1152" fill="none" stroke="#00ff41" stroke-width="2.5"/>
+  <path d="M18 252 V282 H48" fill="none" stroke="#00ff41" stroke-width="2.5"/>
+  <path d="M1182 252 V282 H1152" fill="none" stroke="#00ff41" stroke-width="2.5"/>
+
+  <rect class="sweepbar" x="0" y="18" width="260" height="264" fill="url(#sweep)" opacity="0.25"/>
+
+  <text x="600" y="128" text-anchor="middle" font-family="'Courier New', monospace" font-size="58" font-weight="bold" fill="#00ff41" filter="url(#glow)" class="glowtext">SHIVANSH GAUR</text>
+
+  <text x="600" y="172" text-anchor="middle" font-family="'Courier New', monospace" font-size="20" fill="#7ee787">SDE-1 @ Pathlock&#160;&#183;&#160;Backend &amp; Distributed Systems<tspan class="cursor">&#9608;</tspan></text>
+
+  <text x="600" y="228" text-anchor="middle" font-family="'Courier New', monospace" font-size="15" fill="#8b949e">Chandigarh, IN&#160;&#183;&#160;status: focused&#160;&#127919;&#160;&#183;&#160;uptime: Jun 2025 - present</text>
+</svg>
